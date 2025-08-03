@@ -12,16 +12,15 @@ C++ 기초부터 어셈블리 구조, 언리얼 엔진 기초까지 실습하며
 - 최종적으로 게임 서버/클라이언트 구조 학습
 
 ---
-## 📁 디렉토리 구조
+📁 디렉토리 구조
 
-CPP_Study/
-├── Assembly/ # 어셈블리 언어 기초 학습
-├── Cpp_Basics/ # C++ 문법 및 실습
-├── Unreal_Projects/ # 언리얼 엔진 기반 실습 (예정)
-├── README.md
+CPP_Study/ ─ Assembly/ # 어셈블리 언어 기초 학습
+           └─ Cpp_Basics/ # C++ 문법 및 실습
+           └─ Unreal_Projects/ # 언리얼 엔진 기반 실습 (예정)
+           └─ README.md
 
 yaml
----
+
 
 ## 📝 학습 기록 방식
 
@@ -39,7 +38,11 @@ yaml
 ---
 
 ## 📌 앞으로의 계획
-- [x] Assembly 기본 학습 정리
+
+- [x] Assembly 기초 학습 정리
 - [ ] C++ OOP, 포인터, 참조자, 람다 등 학습
 - [ ] Unreal Engine 설치 및 구조 이해
 - [ ] 미니 프로젝트 제작 (예: 로그라이크 or RPG)
+- [ ] 백엔드 연동 아이디어 실험 (예: DB 연동, 실시간 통신)
+
+---

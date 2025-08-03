@@ -18,8 +18,6 @@ MASM (Microsoft Assembler)
 
 📦 어셈블러 종류 4개 요약
 
-이름	풀네임	특징
-
 NASM	Netwide Assembler	<ul><li>가장 많이 쓰이는 오픈소스 어셈블러</li><li>문법이 깔끔하고 구조화됨</li><li>Windows/Linux 둘 다 사용 가능</li></ul>
 GAS	GNU Assembler	<ul><li>리눅스/유닉스 환경에서 기본으로 제공됨</li><li>GCC와 함께 쓰임</li><li>문법이 NASM보다 살짝 복잡</li></ul>
 FASM	Flat Assembler	<ul><li>고속 컴파일로 유명</li><li>작고 가볍고, 자체적으로 실행 파일 생성 가능</li><li>문법이 NASM과 비슷</li></ul>

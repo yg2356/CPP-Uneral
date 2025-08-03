@@ -29,9 +29,7 @@ MASM	Microsoft Assembler	<ul><li>Windows 전용 어셈블러</li><li>Visual Stud
 
 
 🧪 Hello World 출력 (어셈블리 예제)
-asm
-복사
-편집
+
 #include "io64.inc"
 
 section .text

@@ -13,13 +13,11 @@ C++ 기초부터 어셈블리 구조, 언리얼 엔진 기초까지 실습하며
 
 ---
 📁 디렉토리 구조
-
-CPP_Study/ ─ Assembly/ # 어셈블리 언어 기초 학습
-           └─ Cpp_Basics/ # C++ 문법 및 실습
-           └─ Unreal_Projects/ # 언리얼 엔진 기반 실습 (예정)
-           └─ README.md
-
-yaml
+CPP_Study/
+├── Assembly/ # 어셈블리 언어 기초 학습
+├── Cpp_Basics/ # C++ 문법 및 실습
+├── Unreal_Projects/ # 언리얼 엔진 기반 실습 (예정)
+└── README.md
 
 
 ## 📝 학습 기록 방식

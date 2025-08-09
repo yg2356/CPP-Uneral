@@ -31,8 +31,6 @@ CPP_Study/
 
 - 강의 기반 실습 내용을 `OneNote`로 정리 후, GitHub 마크다운으로 옮깁니다.
 - 각 파트는 디렉토리로 나누어 관리하며, 파일명과 커밋에 따라 추적 가능하게 구성합니다.
-- 진행 중인 강의:
-  - [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part1 - 인프런](https://www.inflearn.com/course/언리얼-mmorpg-개발-1)
 
 ---
 
